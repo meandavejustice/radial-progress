@@ -1,0 +1,19 @@
+.radial-svg {
+        display: block;
+        margin: 0 auto; }
+        .radial-svg .background {
+        fill: #FFFFFF;
+        fill-opacity: 0.01; }
+        .radial-svg .component {
+        fill: #e1e1e1; }
+        .radial-svg .component .label {
+        text-anchor: middle;
+        fill: #0000FF; }
+        .radial-svg .arc {
+        stroke-weight: 0.1;
+        fill: #4e8fff; }
+        .radial-svg .arc2 {
+        stroke-weight: 0.1;
+        fill: #3660b0; }
+        .radial-svg .label {
+        text-anchor: middle; }

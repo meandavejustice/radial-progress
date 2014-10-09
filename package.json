@@ -1,0 +1,28 @@
+{
+  "name": "radial-progress",
+  "version": "0.1.0",
+  "description": "fork of d3 graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meandavejustice/radial-progress.git"
+  },
+  "keywords": [
+    "d3",
+    "radial",
+    "graph",
+    "percentage"
+  ],
+  "author": "meandave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meandavejustice/radial-progress/issues"
+  },
+  "homepage": "https://github.com/meandavejustice/radial-progress",
+  "dependencies": {
+    "d3": "^3.4.12"
+  }
+}
